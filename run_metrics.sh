@@ -1,0 +1,1 @@
+python tools/calculate_metrics.py -R /home/cqtian/psn/Datasets/DNS-Challenge-INTERSPEECH/datasets/test_set/synthetic/with_reverb/clean_y -E /home/cqtian/psn/enhancement/EinFFT_MBFF/enhanced_0350 -M SI_SDR,STOI,WB_PESQ,NB_PESQ -S DNS_1

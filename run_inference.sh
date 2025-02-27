@@ -1,0 +1,1 @@
+python inference.py -C dns_interspeech_2020/EinFFT_MBFF/inference.toml -M /home/cqtian/psn/Experiments/EinFFT_MBFF/train/checkpoints/best_model.tar -O /home/cqtian/psn/enhancement/EinFFT_MBFF
